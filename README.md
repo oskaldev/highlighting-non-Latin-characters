@@ -28,10 +28,7 @@ git clone https://github.com/oskaldev/highlighting-non-Latin-characters.git
 Откроется страница в которой будет пустое поле и кнопка.
 Вставив свой текст и нажав на кнопку выведет обратно весь текст,только уже в нём будет помечены жёлтым цветом все буквы не латинского алфавита. 
 
-<div style="width: 50%; height: 50%">
-  ![image](https://user-images.githubusercontent.com/67880047/225928522-a26afc05-fb66-45fc-b1c4-87491e72b18e.png)
-</div>
-
+<img src="https://user-images.githubusercontent.com/67880047/225929336-902bdd46-f520-4a31-b4ff-2d636551eaa7.png" width=50% height=50%>
 ## Author
 
 👤 **oskaldev**
